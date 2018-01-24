@@ -7,4 +7,4 @@ Repositorio del curso de herramientas computacionales
 - Desarrollar altas habilidades de programación 
 - Implementar a mi metodo de estudio y trabajo cotidiano el uso de herramientas computacionales y plataformas de cómputo modernas
 
-
+Well hello there
